@@ -1,0 +1,38 @@
+
+#root .am-drawer{
+    top:45px;
+}
+#root .am-list-item .am-list-line .am-list-extra{
+    flex-basis:42%;
+}
+.my-drawer .am-drawer-sidebar {
+    background-color: #fff;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+.my-drawer .am-drawer-sidebar .am-list {
+    width: 300px;
+    padding: 0;
+}
+.am-list-item .am-input-control,.am-list-item .am-input-control input{
+    height: 100%;
+}
+button, input, optgroup, select, textarea{
+    font-family: '微软雅黑',sans-serif;
+}
+.am-list-content .am-segment{
+    border-radius: 0;
+}
+.am-list-content .am-segment .am-segment-item{
+    margin-right: 5px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+.am-list-item img{
+    width: 40px;
+    height: 40px;
+}
+.am-card-header-content img{
+    width: 80px;
+    height: 80px;
+}
