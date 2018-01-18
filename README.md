@@ -10,3 +10,6 @@
 
 项目中有联系人列表  所以引用了pinyin插件。
 
+后端接口是用node+mongoDB写的，已部署到 [个人网站](http://www.wangkaiwen.cn/api)
+
+添加商品 有上传图片功能 上传到百度云存储
