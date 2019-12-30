@@ -1,4 +1,4 @@
-# react-storck-manager
+# react-stock-manager
 基于react16 router4和ant-design的 简单出入库管理 app ；
 
 项目是有create-react-app初始化的，但已经进行了eject，所以config-overrides.js已经没用,修改的配置 改为了对config文件夹下的webpack配置文件；
